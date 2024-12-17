@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 st.title("The BIG 10 Conference As It Should Be")
 
